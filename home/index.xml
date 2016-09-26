@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Brandon King, PhD</title>
+    <link>https://xbkingx.github.io/home/</link>
+    <description>Recent content in Homes on Brandon King, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Brandon King</copyright>
+    <lastBuildDate>Sun, 18 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xbkingx.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
