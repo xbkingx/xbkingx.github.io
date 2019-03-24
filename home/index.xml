@@ -7,8 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Brandon King</copyright>
-    <lastBuildDate>Sun, 18 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xbkingx.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Core projects and experience</title>
+      <link>https://xbkingx.github.io/home/experience/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xbkingx.github.io/home/experience/</guid>
+      <description>Neuroscience Doctoral Candidate Brown University BrainGate Project Dr. John P. Donoghue Lab Providence, RI Aug. 2005 - May 2017  Investigated brain-computer interface safety and usability factors essential for transitioning BCI technology from a controlled lab environment to the outside world. Catalyzed project-wide changes to experimental design, post-implant initial evaluation, and participant instruction. Analyzed, validated, and verified high volume, high resolution neural data sets across large variable spaces for dissertation study and collaborating projects, requiring precise knowledge of signal conditioning, filtering, aligning, and processing.</description>
+    </item>
+    
+    <item>
+      <title>curr_proj</title>
+      <link>https://xbkingx.github.io/home/curr_proj/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xbkingx.github.io/home/curr_proj/</guid>
+      <description> &amp;nbsp;
+Current Projects  Cryptocurrency and blockchain research, trading, investment, and mining. FreeGeek Chicago, a not-for-profit 501&amp;copy;(3) organization that recycles and rebuilds computers for people in disadvantaged communities.  Training, recruiting, and advising staff. Building, testing, and troubleshooting PCs.  Private IT consulting.  </description>
+    </item>
+    
+    <item>
+      <title>Ancillary experience</title>
+      <link>https://xbkingx.github.io/home/ancexperience/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xbkingx.github.io/home/ancexperience/</guid>
+      <description>Community Liaison Mendeley Ltd. London, UK Mar. 2009 - Aug. 2009  Cofounded the Community Liaison Program, an early social media outreach program connecting the company with users and university libraries. Tested and compiled community feedback on social reference management service and desktop application.  Founder / Blogger Direct Neural Interface Blog Providence, RI May 2007 - June 2010  Maintained curated lists of recent publications used by many leading brain-computer interface research labs.</description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://xbkingx.github.io/home/education/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xbkingx.github.io/home/education/</guid>
+      <description>PhD in Neuroscience Brown University BrainGate project / Lab of Dr. John P. Donoghue Providence, RI Aug. 2005 - May 2017  Thesis title: Volitional Strategies Engaged During Neural Interface Control: The Impact of Watching, Imagining, and Attempting Movement on Neural Activity. (Abstract) Regularly presented findings at lab meetings, project meetings, and visiting researcher sessions. Teaching Assistant for BN1: Introduction to Neuroscience  Coordinated 12 undergraduate assistant TAs for class of 300+ students.</description>
+    </item>
+    
+    <item>
+      <title>pub_speak</title>
+      <link>https://xbkingx.github.io/home/pub_speak/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xbkingx.github.io/home/pub_speak/</guid>
+      <description> Guest Lecturer Implantable Neural Interfaces for Interaction and Communication Introduction to Biomedical Technology University Campus Bio-Medico, Dept. of Neurology Rome, Italy 2007 Guest Lecturer Reconnecting the Brain: Bridging the Gap Between Thought and Action for People with Paralysis Taugavísindafélags Íslands (Icelandic Society for Neuroscience) Reykjavík, Iceland 2009 Speaker Annual Research Summary Brown University, Dept. of Neuroscience Providence, RI 2007 - 2011 Presenter Annual Project Update Brown University, BrainGate2 Multicenter Retreat Providence, RI 2008 - 2010 Speaker Technology and Analysis Update Abbott Laboratories, Annual Sales Meeting Chicago, IL 2003 - 2005 </description>
+    </item>
+    
+    <item>
+      <title>skills</title>
+      <link>https://xbkingx.github.io/home/skills/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xbkingx.github.io/home/skills/</guid>
+      <description>Programming languages:  Matlab, LabView, C, Java, HTML, Pascal, BASIC. Familiar with: Python, R, XML, C++, SQL, Lisp, CSS, Lua, shell scripting, regex.  Operating systems:  Windows, MacOS, Linux, iOS, Android.  Neural data acquisition systems:  Blackrock Cerebus, Plexon, Datawave, Neuralynx.  Interface technology:  Neural data (spike, LFP, MUA, EEG, other field potentials), EMG, EOG, eye tracking, motion capture, assistive keyboards and devices, audio and video capture and mixing/sequencing, human interface devices, video game controllers, HTC Vive, Samsung GearVR.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://xbkingx.github.io/home/simp_pubs/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xbkingx.github.io/home/simp_pubs/</guid>
+      <description>Journal Articles &amp;nbsp;
+Kennedy PR, Kirby MT, Moore MM, King B, Mallory A. &amp;ldquo;Computer Control Using Human Cortical Local Field Potentials.&amp;rdquo; IEEE Transactions on Neural Systems and Rehabilitation Engineering 12.3 (2004).
+Kennedy PR, Andreasen D, Ehirim P, King B, Kirby MT, Mao H, Moore MM. &amp;ldquo;Using Human Extra Cortical Field Potentials to Control a Switch.&amp;rdquo; Journal of Neural Engineering 1 (2004): 72-77.
+Kennedy PR, Andreasen DS, King B, Kirby MT, Mao H, Moore MM, Ehirim P.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://xbkingx.github.io/home/about/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xbkingx.github.io/home/about/</guid>
+      <description>&amp;nbsp;
+Background I received a PhD in Neuroscience from Brown University, where I focused on brain-computer interface research. Even though doctoral programs tend to lead students down a path of hyper-specialization, the multidisciplinary nature of neural interfaces, combined with my previous experiences as a pharmaceutical representative and technology journalist, have resulted in an undeniably unique and diverse skillset.
+I&amp;rsquo;m currently seeking employment in a public or private organization fueled by massive, complex ideas at the intersection of perception, interaction, and technology.</description>
+    </item>
     
   </channel>
 </rss>
